@@ -1,2 +1,2 @@
-# Zephira
-Android weather application built with Kotlin
+# Medicore
+Android application built with Kotlin for managing patient records
